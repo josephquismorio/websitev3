@@ -1,5 +1,5 @@
 # websitev3
-new new website!! visit the live version at https://joeyquismor.io
+new new website!! visit the live version [here](https://joeyquismor.io)!
 
 
 ## new implementations
